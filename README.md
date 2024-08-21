@@ -1,1 +1,0 @@
-# diveroshetty.github.io
