@@ -283,7 +283,7 @@ p {
 @media screen and (max-width:991px) {
 	.navbar-collapse {
 		height: 100vh;
-		background-color: #e9e8e6;
+		background-color: #fcfcfc;
 		top: 0;
 		left: 0;
 		width: 100%;
@@ -351,7 +351,7 @@ p {
 	width: 100%;
 	height: 100%;
 	color: #000;
-	background-color: #e9e8e6;
+	background-color: #fcfcfc;
 }
 
 .LeftContent {
