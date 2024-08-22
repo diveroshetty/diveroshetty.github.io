@@ -43,11 +43,11 @@ a:visited.white {
 }
 
 h1 {
-	font-size: 1.0rem;
+	font-size: 0.8rem;
 }
 
 h2 {
-	font-size: 1.0rem;
+	font-size: 0.8rem;
 }
 
 p {
@@ -200,7 +200,7 @@ p {
 }
 
 .nav-item {
-	font-size: 1.2rem;
+	font-size: 0.8rem;
 }
 
 .icon-bars {
@@ -439,8 +439,8 @@ p {
 
 /* Works */
 
-.works {
-	font-size: 1.2em;
+.projects {
+	font-size: 0.8em;
 	padding-top: 14rem;
 	padding-bottom: 3rem;
 }
@@ -448,8 +448,8 @@ p {
 
 /* Studio */
 
-.studio {
-	font-size: 1.2em;
+.cv {
+	font-size: 0.8em;
 	padding-top: 10rem;
 	padding-bottom: 10rem;
 }
@@ -458,7 +458,7 @@ p {
 /* Contact */
 
 .contact {
-	font-size: 1.8em;
+	font-size: 0.8em;
 	padding-top: 15rem;
 	padding-bottom: 10rem;
 }
@@ -467,7 +467,7 @@ p {
 /* Contact Form */
 
 .contact-form {
-	font-size: 1.2em;
+	font-size: 0.8em;
 	padding-bottom: 11rem;
 }
 
@@ -484,7 +484,7 @@ p {
 	border-width: 0 0 2px 0;
 	border-radius: 0;
 	border-style: solid;
-	font-size: 1.5rem;
+	font-size: 0.8rem;
 }
 
 .form-control::-webkit-input-placeholder {
