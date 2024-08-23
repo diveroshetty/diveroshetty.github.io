@@ -200,7 +200,7 @@ p {
 }
 
 .nav-item {
-	font-size: 1.2rem;
+	font-size: 0.8rem;
 }
 
 .icon-bars {
@@ -440,7 +440,7 @@ p {
 /* Works */
 
 .projects {
-	font-size: 1.2em;
+	font-size: 0.8em;
 	padding-top: 14rem;
 	padding-bottom: 3rem;
 }
@@ -449,7 +449,7 @@ p {
 /* Studio */
 
 .cv {
-	font-size: 1.2em;
+	font-size: 0.8em;
 	padding-top: 10rem;
 	padding-bottom: 10rem;
 }
@@ -458,7 +458,7 @@ p {
 /* Contact */
 
 .contact {
-	font-size: 1.2em;
+	font-size: 0.8em;
 	padding-top: 15rem;
 	padding-bottom: 10rem;
 }
